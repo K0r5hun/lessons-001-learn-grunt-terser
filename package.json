@@ -1,0 +1,25 @@
+{
+  "name": "@wolq/learn-grunt-terser",
+  "version": "1.0.0",
+  "description": "Example of minify JS files",
+  "keywords": [],
+  "author": {
+    "name" : "Konstantin Eliseev K0r5hun",
+    "email" : "dev@wolq.net",
+    "url" : "https://korw.ru/"
+  },
+  "homepage": "https://github.com/K0r5hun/lessons-001-learn-grunt-terser",
+  "scripts": {
+    "build": "grunt"
+  },
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-terser": "^2.0.0",
+    "terser": "^5.10.0"
+  },
+  "files": [
+    "CHANGELOG.txt",
+    "LICENSE.txt"
+  ],
+  "license": "MIT"
+}
